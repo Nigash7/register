@@ -1,6 +1,7 @@
 {
-  "description": "Nigash's developer portfolio",
-  "repo": "https://github.com/Nigash7",
+  "$schema": "https://docs.is-a.dev/schema.json",
+  "description": "Nigash's Team Management Web App",
+  "repo": "https://github.com/Nigash7/team-management-cms",
   "owner": {
     "username": "Nigash7",
     "email": "nigash6385@gmail.com"
@@ -9,22 +10,4 @@
     "CNAME": "team-management-c2cf2.web.app"
   }
 }
-```
 
----
-
-### 5️⃣ What does this JSON mean?
-
-| Field | Meaning |
-|-------|---------|
-| `description` | What your site is about |
-| `repo` | Your GitHub profile link |
-| `owner.username` | Your GitHub username |
-| `owner.email` | Your email |
-| `record.CNAME` | Points to your Firebase site |
-
----
-
-### 6️⃣ Scroll down → Click "Commit changes"
-```
-[ Commit changes ]  ← green button at bottom
